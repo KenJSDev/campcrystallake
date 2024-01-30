@@ -1,0 +1,30 @@
+.review > img {
+  width: 20px;
+}
+
+.lostFound img {
+  width: 150px;
+  border: 2px solid black;
+  border-radius: 0px auto;
+  display: block;
+  margin: auto;
+}
+
+.lostFound h4, .lostFound h2 {
+  text-align: center;
+}
+
+.lostCard {
+  border: 2px solid black;
+  border-radius: 15px;
+  margin-top: 15px;
+}
+
+.col-md-4 {
+    margin-right: 2px;
+    width: calc((100% - 10px) / 3);
+}
+
+.col-md-4:last-child {
+    margin-right: 0;
+}
