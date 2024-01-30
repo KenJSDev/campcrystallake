@@ -1,2 +1,2 @@
-# campcrystallake
-A fictional website for Camp Crystal Lake designed with Bootstrap
+# Camp Crystal Lake
+This is a fictional website that I created to get practice using Bootstrap. This is my first Bootstrap project.
